@@ -10,7 +10,6 @@ from datetime import datetime
 
 load_dotenv(find_dotenv())
 CONNECTION_URL = os.environ.get("CONNECTION_URL")
-print(CONNECTION_URL)
 
 
 
